@@ -1,0 +1,4 @@
+.DS_Store
+node_modules/
+# Engine type stubs the mod tooling generates locally
+plugins/*/.claude-plugin/types/

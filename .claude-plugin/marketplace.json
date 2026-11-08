@@ -1,0 +1,14 @@
+{
+  "name": "codex-jobs",
+  "owner": { "name": "BlackSlience-Reaper" },
+  "metadata": {
+    "description": "A Claude Code mod that tracks the Codex jobs Claude starts in a session"
+  },
+  "plugins": [
+    {
+      "name": "codex-jobs",
+      "source": "./plugins/codex-jobs",
+      "description": "A sidebar of the Codex jobs Claude starts in this session, drawn like the native workflow view, with a footer button that opens and closes it."
+    }
+  ]
+}

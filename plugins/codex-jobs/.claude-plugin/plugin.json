@@ -1,0 +1,6 @@
+{
+  "name": "codex-jobs",
+  "version": "0.1.0",
+  "description": "A sidebar of the Codex jobs Claude starts in this session, drawn like the native workflow view",
+  "types": "./types/index.d.ts"
+}
